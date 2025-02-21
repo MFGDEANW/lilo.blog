@@ -1,8 +1,8 @@
 +++
 title = "About me"
 draft = false
+image = "graue-bachstelze-8717956_640.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
